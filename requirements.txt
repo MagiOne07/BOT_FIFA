@@ -10,7 +10,7 @@ numpy==1.22.3
 protobuf==3.20.1
 sklearn==0.0
 beautifulsoup4
-Selenium 4.8.0
+Selenium 4.7.2
 DateTime 4.7
 notify-py 0.3.39
 notify2 0.3.1
