@@ -13,3 +13,6 @@ beautifulsoup4
 notify-run 0.0.15
 selenium 4.8.0
 DateTime 4.7
+notify-py 0.3.39
+notify-run 0.0.15
+notify2 0.3.1
